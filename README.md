@@ -1,5 +1,5 @@
 # Laravel feedbacktool
-
+<br />
 This laravel app is an app meant for psychologists to see the impact of their sessions on their patients.
 The therapist can add new patients and save the sessions they have with their patients.
 After a session they have the possibility to ask feedback from the patients. 
@@ -8,9 +8,9 @@ The inputs from the patients will be saved in a graph to have an easy way to wat
 
 
 # To start the app
-
-TODO:   1. run npm i
-        2. have a xampp running with apache and MySQL active
-        3. run php artisan migrate:refresh --seed
-        4. run php artisan serve (if this gives an error run composer update --no-scripts)
-        5. you can now login with "admin@admin.com" and password "admin"
+<br />
+TODO: <br />   1. run npm i <br />
+        2. have a xampp running with apache and MySQL active <br />
+        3. run php artisan migrate:refresh --seed <br />
+        4. run php artisan serve (if this gives an error run composer update --no-scripts) <br />
+        5. you can now login with "admin@admin.com" and password "admin" <br />

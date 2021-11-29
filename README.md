@@ -1,4 +1,4 @@
-#Laravel feedbacktool
+# Laravel feedbacktool
 
 This laravel app is an app meant for psychologists to see the impact of their sessions on their patients.
 The therapist can add new patients and save the sessions they have with their patients.
@@ -7,7 +7,7 @@ When doing this the site will generate a custom URL which can be opened immediat
 The inputs from the patients will be saved in a graph to have an easy way to watch the progress over time.
 
 
-#To start the app
+# To start the app
 
 TODO:   1. run npm i
         2. have a xampp running with apache and MySQL active
